@@ -63,6 +63,7 @@ pheatmap(input.mtx, color=col.panel(100), cluster_rows = input.heatmap$tree_row,
          main = paste(cell.type, "clustering"))
          dev.off()
 
+
 ### figure 1c
 ### note:figure 1c showed slightly different from published one for uwot
 ### packages had updated and same parameters we had used were missing.
