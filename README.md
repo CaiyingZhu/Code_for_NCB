@@ -25,7 +25,6 @@ Figure 3c-g: 07.Codes_for_Figure3.R
 Usage: 
 
 Put input and Rscript files on the same directory, then run the following command:
-
 R -f Rscript/script name
 
 Contact: Caiying Zhu (zhucaiying@ihcams.ac.cn)
