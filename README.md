@@ -21,7 +21,10 @@ Figure 2: 06.Codes_for_Figure2.R
 
 Figure 3c-g: 07.Codes_for_Figure3.R
 
-Usage: R -f Rscript/script name
+
+Usage: 
+Put input and Rscript files on the same directory, :
+R -f Rscript/script name
 
 Contact: Caiying Zhu (zhucaiying@ihcams.ac.cn)
 
